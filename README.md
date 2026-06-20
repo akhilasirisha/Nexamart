@@ -1,6 +1,6 @@
-# 🛒 ShopMitra - Full Stack E-Commerce Application
+# 🛒 NexaMart - Full Stack E-Commerce Application
 
-ShopMitra is a Full Stack E-Commerce Web Application developed using React.js, Spring Boot, MySQL, Spring Security, JWT Authentication, and Razorpay Payment Gateway. The application enables users to browse products, add products to cart, place orders, and make secure online payments.
+NexaMart is a Full Stack E-Commerce Web Application developed using React.js, Spring Boot, MySQL, Spring Security, JWT Authentication, and Razorpay Payment Gateway. The application enables users to browse products, add products to cart, place orders, and make secure online payments.
 
 ---
 
